@@ -44,6 +44,40 @@ mode="Desktop">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="082839db-a41a-4a4d-9c95-bbaa4d7c1a1d"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</touchrecorditem>
+		<invokeactionrecorditem
+		action=""
+		enabled="True"
+		optional="False"
+		searchpropertyid="a56ddc55-17ad-46ae-be3d-4946c9121967">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="453d9ffd-bb5a-4924-b9c8-b53585c9dcdf">
+			</arguments>
+		</invokeactionrecorditem>
 	</recorditems>
 	<repository
 	id="1e1e0e01-48cd-47de-ba73-2dff85b622f4"
