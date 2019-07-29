@@ -150,6 +150,17 @@ mode="Desktop">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+		<getvaluerecorditem
+		attrname=""
+		enabled="True"
+		optional="False"
+		searchpropertyid="8fcc5ff1-8d79-4758-a74d-38e8ff7fef8e"
+		varname="">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</getvaluerecorditem>
 	</recorditems>
 	<repository
 	id="1e1e0e01-48cd-47de-ba73-2dff85b622f4"
