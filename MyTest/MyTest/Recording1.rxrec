@@ -53,6 +53,51 @@ mode="Desktop">
 			<bindings>
 			</bindings>
 		</getvaluerecorditem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="d10a3f00-bb25-44c6-a708-bca0917d0437"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mouseitem>
+		<mousewheelitem
+		delta="120"
+		duration="300ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
+		<swiperecorditem
+		direction="270"
+		distance=".5"
+		duration="500ms"
+		enabled="True"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="8c185945-f635-4855-811f-149d50655a40"
+		startlocation="Center"
+		steps="0"
+		swipeduration="500ms"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</swiperecorditem>
 	</recorditems>
 	<repository
 	id="26e2d97e-fd7d-4bd7-8c50-6ea9073a85c4"
