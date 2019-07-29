@@ -103,6 +103,25 @@ mode="Desktop">
 				yourtext
 			</matchvalue>
 		</validationitem>
+		<openwebsiterecorditem
+		args=""
+		browser="IE"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://www.ranorex.com
+			</url>
+		</openwebsiterecorditem>
 	</recorditems>
 	<repository
 	id="1e1e0e01-48cd-47de-ba73-2dff85b622f4"
