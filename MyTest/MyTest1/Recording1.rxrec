@@ -78,6 +78,31 @@ mode="Desktop">
 			id="453d9ffd-bb5a-4924-b9c8-b53585c9dcdf">
 			</arguments>
 		</invokeactionrecorditem>
+		<separatoritem
+		enabled="True"
+		optional="False">
+			<comment>
+				Header text
+			</comment>
+			<bindings>
+			</bindings>
+		</separatoritem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="False"
+		searchpropertyid="837c69c7-f02a-4153-aca2-5c02a08edb2f">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<matchname>
+				Text
+			</matchname>
+			<matchvalue>
+				yourtext
+			</matchvalue>
+		</validationitem>
 	</recorditems>
 	<repository
 	id="1e1e0e01-48cd-47de-ba73-2dff85b622f4"
