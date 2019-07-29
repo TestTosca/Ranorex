@@ -25,6 +25,34 @@ mode="Desktop">
 	<variables>
 	</variables>
 	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="31fd7461-2888-4648-9453-88d075ff3c77"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mouseitem>
+		<getvaluerecorditem
+		attrname=""
+		enabled="True"
+		optional="False"
+		searchpropertyid="6799ae00-bda7-465e-a849-d52591f669f1"
+		varname="">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</getvaluerecorditem>
 	</recorditems>
 	<repository
 	id="26e2d97e-fd7d-4bd7-8c50-6ea9073a85c4"
