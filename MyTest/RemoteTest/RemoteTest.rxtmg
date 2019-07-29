@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="RemoteTest"
+      id="7042ac5a-ccb6-4a1c-893f-75f24f7a117c"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="RemoteTest"
+      id="7042ac5a-ccb6-4a1c-893f-75f24f7a117c"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

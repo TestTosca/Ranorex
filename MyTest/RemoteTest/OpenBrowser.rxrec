@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="1c2dfa70-ebc9-4fdc-b41d-956584f2f009"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="RemoteTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://www.ranorex.com
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="6790831e-a55a-4d51-bad5-7e591ac0df82"
+	name="RemoteTestRepository"
+	relativepath="RemoteTestRepository.rxrep">
+		<codegen
+		classname="RemoteTestRepository"
+		namespace="RemoteTest">
+		</codegen>
+		<rootfolder
+		id="3bb8e208-fc40-4153-a856-88d38a8bb993"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="VBNet">
+		OpenBrowser.UserCode.vb
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
