@@ -103,6 +103,34 @@ mode="Desktop">
 				yourtext
 			</matchvalue>
 		</validationitem>
+		<mousewheelitem
+		delta="120"
+		duration="300ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
+		<swiperecorditem
+		direction="270"
+		distance=".5"
+		duration="500ms"
+		enabled="True"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="c89f1217-fd9f-4762-b0da-392c33e16975"
+		startlocation="Center"
+		steps="0"
+		swipeduration="500ms"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</swiperecorditem>
 		<openwebsiterecorditem
 		args=""
 		browser="IE"
