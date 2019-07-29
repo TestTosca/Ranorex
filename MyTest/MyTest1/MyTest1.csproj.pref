@@ -4,8 +4,10 @@
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
+    <Element value="Recording1.cs" />
     <Element value="Recording1.rxrec" />
-    <Element value="MyTest1.rxtst" />
   </Array>
-  <Properties name="projectSavedData" />
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
 </Properties>
