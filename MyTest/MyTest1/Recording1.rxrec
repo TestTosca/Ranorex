@@ -150,6 +150,20 @@ mode="Desktop">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+<<<<<<< .mine
+		<mousewheelitem
+		delta="120"
+		duration="300ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
+||||||| .r9
+=======
 		<getvaluerecorditem
 		attrname=""
 		enabled="True"
@@ -161,6 +175,7 @@ mode="Desktop">
 			<bindings>
 			</bindings>
 		</getvaluerecorditem>
+>>>>>>> .r10
 	</recorditems>
 	<repository
 	id="1e1e0e01-48cd-47de-ba73-2dff85b622f4"
