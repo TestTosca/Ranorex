@@ -79,6 +79,10 @@ namespace MyTest1
 
             Init();
 
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.ranorex.com' with browser 'IE' in normal mode.", new RecordItemIndex(0));
+            Host.Current.OpenBrowser("http://www.ranorex.com", "IE", "", false, false, false, false, false, true);
+            Delay.Milliseconds(0);
+            
         }
 
 #region Image Feature Data
